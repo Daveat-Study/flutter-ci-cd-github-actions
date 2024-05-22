@@ -1,16 +1,7 @@
-# sample_app
+Github Ation
 
-A new Flutter project.
+- is a CI/CD platform that allows your automate your build, test, deployment pipline. 
+- beyond just DevOps and lets you run workflows when other events happen in your repository.
 
-Implement CI/CD
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Workflow.
+- is a configurable automated process that will run one or more jobs.
